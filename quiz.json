@@ -2,18 +2,18 @@
   "shortDescription": "Test your knowledge of Football with this quiz.",
   "questions": [
     {
-      "question": "What is RAM?",
-      "answers": ["Memory", "CPU", "Cache"],
+      "question": "Which nation won UEFA Euro 1992 despite not initially qualifying?",
+      "answers": ["Gareth Barry", "Denmark", "Johan Cruyff Shield"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is HTTP?",
-      "answers": ["Protocol", "Server", "Router"],
+      "question": "What is Newcastle United’s mascot called?",
+      "answers": ["The Old Lady", "Watford F.C.", "Monty Magpie"],
       "correctAnswerIndex": 0
     },
     {
-      "question": "What is CSS?",
-      "answers": ["Styles", "Script", "Markup"],
+      "question": "Who was the first goalkeeper to score in an FA Cup tie?",
+      "answers": ["Riyad Mahrez", "Alan Shearer", "Alan Cooling"],
       "correctAnswerIndex": 0
     }
   ]
