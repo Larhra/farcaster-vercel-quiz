@@ -2,8 +2,8 @@
   "shortDescription": "Test your knowledge of Football with this quiz.",
   "questions": [
     {
-      "question": "Which nation won UEFA Euro 1992 despite not initially qualifying?",
-      "answers": ["Gareth Barry", "Denmark", "Johan Cruyff Shield"],
+      "question": "What is Juventus’ nickname?",
+      "answers": ["The Old Lady", "Peter Shilton", "Thierry Henry"],
       "correctAnswerIndex": 0
     },
     {
