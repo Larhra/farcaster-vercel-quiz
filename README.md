@@ -1,3 +1,7 @@
+# Submission Info / Details
+* Deployment URL / Same as Frame URL: https://farcaster-vercel-quiz-six.vercel.app/api
+* Video URL / Demo URL: 
+
 # DappyKit + Farcaster + Vercel Template
 
 This is a Quiz Typescript Frame template for Farcaster integrated with DappyKit. The template is ready to deploy on Vercel. A KV storage must be created to store user sessions for the project to work.
